@@ -1,0 +1,2 @@
+this should contain the audio files for training sets.
+i want this set up so that a user can provide a set of drums (favourite kicks, for example) and train the application so that it can scan out files that match
