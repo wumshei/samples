@@ -1,5 +1,5 @@
-./splice/*
-./outputs/*
+./splice/*/
+./outputs/*/
 ./ongodfuckregex.py
 ./DS_Store
 ./venv
@@ -10244,3 +10244,5 @@ fuckdsstore.py
 INTERPRETERCONFIG.md
 OGvenv.zip
 tensorflow_test.ipynb
+*.wav
+*.xmp
