@@ -87,7 +87,7 @@ if(True == True):
         for filename in files:
             matched = False #Flag so that we avoid checking more subkeys and keywords once already matched
             tempPath = getPath(roots,filename)
-            if re.match(r".*\.asd",filename):
+            if not re.match(r".*\.wav",filename):
                 os.remove(tempPath)
             elif re.search("loop",filename,re.IGNORECASE):
                 continue

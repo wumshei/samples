@@ -1,5 +1,5 @@
 model theories:
-    ignore amplitude
+    ignore amplitude (or normalise)
     frequency density
     amplitude density
     frequency content (for low end)

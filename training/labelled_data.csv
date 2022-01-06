@@ -196,7 +196,6 @@ path,label
 ./outputs/kick/SOPHIE_kick_wet_05.wav,kick
 ./outputs/kick/UZ_SS_kick_charge.wav,kick
 ./outputs/kick/SOPHIE_kick_wet_11.wav,kick
-./outputs/kick/KSHMR_Signature_Kick_05_-_Secrets__E_.aif,kick
 ./outputs/kick/MAT_ZO_kick_111.wav,kick
 ./outputs/kick/SKURABRST_kick_space.wav,kick
 ./outputs/kick/MAT_ZO_kick_105.wav,kick
@@ -725,7 +724,6 @@ path,label
 ./outputs/snare/JUST_snare_center.wav,snare
 ./outputs/snare/UZ_SS_snare_fullauto.wav,snare
 ./outputs/snare/XG_snare_one_shot_taurus_v2.wav,snare
-./outputs/snare/KSHMR_Tight_Snare_06.aif,snare
 ./outputs/snare/MAT_ZO_snare_033.wav,snare
 ./outputs/snare/MAT_ZO_snare_027.wav,snare
 ./outputs/snare/KSHMR_Tight_Snare_34_F#.wav,snare
@@ -756,7 +754,6 @@ path,label
 ./outputs/snare/MdL_snare_ballin.wav,snare
 ./outputs/snare/MAT_ZO_snare_031.wav,snare
 ./outputs/snare/XG_snare_ping.wav,snare
-./outputs/snare/KSHMR_Tight_Snare_10.aif,snare
 ./outputs/snare/OS_UT_Snare_3.wav,snare
 ./outputs/snare/KSHMR_Tight_Snare_24_E.wav,snare
 ./outputs/snare/繁登_Conant_Snare.wav,snare
@@ -1292,7 +1289,6 @@ path,label
 ./outputs/snare/sb2_snare_cowboy.wav,snare
 ./outputs/snare/FULL_CRATE_snare_one_shot_boom.wav,snare
 ./outputs/snare/EK_snare_verbrim.wav,snare
-./outputs/snare/KSHMR_Hard_Snare_10.aif,snare
 ./outputs/snare/TS_VIRGO_beatbox_one_shot_voice_snare_hotbed.wav,snare
 ./outputs/snare/ldb_snare_one_shot_rim_think.wav,snare
 ./outputs/snare/EKALI_snare_babylon_01.wav,snare
@@ -1739,7 +1735,6 @@ path,label
 ./outputs/perc/UMRU_percussion_5am_01.wav,perc
 ./outputs/perc/SS_VI_perc_deep_top_hit_wet.wav,perc
 ./outputs/perc/UZ_SS_percussion_wine_05.wav,perc
-./outputs/perc/KSHMR_Low_Perc_06__E_.aif,perc
 ./outputs/perc/MDSN_CRMNCCI_percussion_one_shot_mouthpopmid.wav,perc
 ./outputs/perc/UZ_SS_percussion_wine_04.wav,perc
 ./outputs/perc/SOPHIE_percussion_18.wav,perc
@@ -1842,7 +1837,6 @@ path,label
 ./outputs/perc/ff_btr_percussion_hi_tone.wav,perc
 ./outputs/perc/ldb_percussion_one_shot_foley_mid_clicka.wav,perc
 ./outputs/perc/OLIVER_140_drum_fill_electronic_dnmo_short_percussion.wav,perc
-./outputs/perc/KSHMR_Hi_Perc_14.aif,perc
 ./outputs/perc/UMRU_percussion_laser_E.wav,perc
 ./outputs/perc/XG_percussion_metal_donk.wav,perc
 ./outputs/perc/RU_DG_perc_chajchas_04.wav,perc
@@ -1967,7 +1961,6 @@ path,label
 ./outputs/perc/Graves_percussion_07.wav,perc
 ./outputs/perc/DF_percussion_bullet.wav,perc
 ./outputs/perc/XG_percussion_wood_stick.wav,perc
-./outputs/perc/KSHMR_Hi_Perc_05.aif,perc
 ./outputs/perc/GRMR_Perc_02_Crafty_140.wav,perc
 ./outputs/perc/EK_percussion_swordsheathe.wav,perc
 ./outputs/perc/FULL_CRATE_percussion_one_shot_duby.wav,perc
@@ -1994,7 +1987,6 @@ path,label
 ./outputs/perc/UMRU_percussion_tiny_fill.wav,perc
 ./outputs/perc/ff_bat_percussion_mid_lady.wav,perc
 ./outputs/perc/KSHMR_Percussion_High_Knock_03_G.wav,perc
-./outputs/perc/KSHMR_Hi_Perc_10__G#_.aif,perc
 ./outputs/perc/POINT_POINT_percussion_16.wav,perc
 ./outputs/perc/POINT_POINT_percussion_02.wav,perc
 ./outputs/perc/EK_percussion_bongofill.wav,perc
@@ -2347,7 +2339,6 @@ path,label
 ./outputs/clap/Graves_140_build_claps.wav,clap
 ./outputs/clap/ff_btr_clap_hi_sides.wav,clap
 ./outputs/clap/MAT_ZO_clap_34.wav,clap
-./outputs/clap/KSHMR_Claps_07_-_Tightest_Clap.aif,clap
 ./outputs/clap/003_a__Clap_-_REBELLIONDRUMBASS_Zenhiser.wav,clap
 ./outputs/clap/RKU_BLN_CLAP030.wav,clap
 ./outputs/clap/mta_clap_one_shot_high_close_starry.wav,clap
@@ -2466,7 +2457,6 @@ path,label
 ./outputs/clap/MDSN_CRMNCCI_clap_shock.wav,clap
 ./outputs/clap/tp_90ukg_clap_bopper.wav,clap
 ./outputs/clap/TA_9DH_CLAP_ONESHOT_505.wav,clap
-./outputs/clap/KSHMR_Claps_05_-_Snappy_Clap.aif,clap
 ./outputs/clap/09_DNB2_Clap.wav,clap
 ./outputs/clap/PVP_Clap_Tikus.wav,clap
 ./outputs/clap/KSHMR_Church_Clap_03.wav,clap
@@ -3343,9 +3333,7 @@ path,label
 ./outputs/hat/open_hat/tp_dr_genic_hat_open_shimmer.wav,open_hat
 ./outputs/hat/open_hat/KSHMR_Acoustic_Open_Hat_11_Open_and_Close.wav,open_hat
 ./outputs/hat/open_hat/WM_hihat_open_01.wav,open_hat
-./outputs/hat/open_hat/KSHMR_Hi_Hats_Open_03.aif,open_hat
 ./outputs/hat/open_hat/EK_hihat_open_live.wav,open_hat
-./outputs/hat/open_hat/KSHMR_Hi_Hats_Open_07.aif,open_hat
 ./outputs/hat/open_hat/TA_9DH_HAT_ONESHOT_CLASSY_OPEN.wav,open_hat
 ./outputs/hat/open_hat/JUST_kick_open_round.wav,open_hat
 ./outputs/hat/open_hat/CP3_A0_Open_Syn_Bass.wav,open_hat
